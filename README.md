@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy [Luis Villalobos / luis18vc] 👋
 
-<!--
-**luis18vc/luis18vc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado del desarrollo web y la arquitectura de bases de datos, siempre buscando aprender nuevas tecnologías y optimizar sistemas. Actualmente me encuentro en la recta final de la carrera de Ingeniería de Software (con miras a egresar en 2026).
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+* 💻 Tengo experiencia sólida en programación orientada a objetos y desarrollo web.
+* ⚙️ Me desenvuelvo tanto en el ecosistema **Java** (JSP, Servlets) como en el framework **Laravel**.
+* 🎨 Tengo un buen ojo para el diseño y la maquetación (HTML, CSS, Tailwind), complementado con herramientas de diseño gráfico para interfaces de usuario.
+* ⚽ Cuando no estoy codeando, probablemente estoy siguiendo los partidos de la Liga 1 o a la selección.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mi Stack Tecnológico
+**Backend & Frameworks:** Java, PHP, Laravel  
+**Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS  
+**Bases de Datos:** MySQL (Modelado ER, phpMyAdmin, Workbench)  
+**Herramientas & Cloud:** Git, GitHub, Google Cloud, Azure  
+
+### 📈 Mis Estadísticas
+[![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=luis18vc&show_icons=true&theme=radical)](https://github.com/luis18vc)
+
+### 📫 Cómo contactarme
+* **LinkedIn:** [www.linkedin.com/in/luisvillaloboscabezas]
+* **Email:** [luisvillacab@gmail.com]
